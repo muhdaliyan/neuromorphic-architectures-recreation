@@ -1,0 +1,26 @@
+# =============================================================================
+# Folder Cleanup — Personal/temporary files NOT for GitHub (from STUDY_GUIDE.md)
+# =============================================================================
+# The following files are excluded to protect personal data and copyright:
+# - M Aliyan.pdf (Personal CV)
+# - cv_text.txt (Extracted CV text)
+# - paper_text.txt (Extracted paper text)
+# - a mini review of neuromorphic architectures and implementations.pdf (IEEE copyright)
+# =============================================================================
+
+# Ignore the directory housing these personal/copyrighted files:
+ignored_files/
+ResearchGate_Report.md
+
+# Python Auto-generated Cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+.venv/
+env/
