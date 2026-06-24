@@ -1,8 +1,10 @@
 # Neuromorphic Architectures Recreation
 
 Computational recreation of biological neuron models, synaptic dynamics, memristive device models, and crossbar neural networks described in:
-> **A Mini Review of Neuromorphic Architectures and Implementations**  
+> **[A Mini Review of Neuromorphic Architectures and Implementations](https://ieeexplore.ieee.org/document/7549034)** ([ResearchGate](https://www.researchgate.net/publication/306529644_A_Mini_Review_of_Neuromorphic_Architectures_and_Implementations))  
 > Nawrocki et al., *IEEE Transactions on Electron Devices* (2016)
+
+
 
 ---
 
